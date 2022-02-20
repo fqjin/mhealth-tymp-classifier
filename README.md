@@ -9,7 +9,7 @@ Copyright 2022 The Authors.
 The software and trained model are provided under the XXX license.
 
 ### Getting Started
-
+![Example Tympanograms](ABC.png)
 The model computes the ECV and TPP and classifies tympanometry tracings as type A, B, or C. This repo contains:
 
 * `example.ipynb`: Jupyter notebook with usage examples
