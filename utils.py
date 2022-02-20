@@ -5,7 +5,7 @@ from scipy.signal import butter, sosfiltfilt
 
 def build_model():
     """Gets the trained PyTorch TorchScript model"""
-    model = torch.jit.load('traced_model.pt')
+    model = torch.jit.load('model.pt')
     return model
 
 
