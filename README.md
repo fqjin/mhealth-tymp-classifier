@@ -1,11 +1,11 @@
 # mHealth Tympanometry ML Classifier
 The ML tympanometry tracing classifier from
-(Jin et al. "A Hybrid Deep Learning Approach to Identify Preventable Childhood Hearing Loss".
-*Journal* 2022).
+Jin et al. "A Hybrid Deep Learning Approach to Identify Preventable Childhood Hearing Loss".
+(under review)
 ![Example Tympanograms](ABC.png)
 
 ## Getting Started
-The model computes the ECV and TPP and classifies tympanometry tracings as type A, B, or C.
+The model computes the ECV, TPP, and associated uncertainties. It then classifies tympanometry tracings as type A, B, or C.
 This repo contains:
 * `example.ipynb`: Jupyter notebook with usage examples
 * `utils.py`: code for helper functions
@@ -13,6 +13,10 @@ This repo contains:
 
 ## Citation
 ```bibtex
+@article{jin2022hybrid,
+  title={A Hybrid Deep Learning Approach to Identify Preventable Childhood Hearing Loss},
+  author={Jin, Felix Q and Huang, Ouwen and Robler, Samantha Kleindienst and Morton, Sarah and Platt, Alyssa and Egger, Joseph and Emmett, Susan D and Palmeri, Mark L}
+}
 ```
 
 ## Funding
