@@ -13,9 +13,15 @@ This repo contains:
 
 ## Citation
 ```bibtex
-@article{jin2022hybrid,
+@article{jin2023hybrid,
   title={A Hybrid Deep Learning Approach to Identify Preventable Childhood Hearing Loss},
-  author={Jin, Felix Q and Huang, Ouwen and Robler, Samantha Kleindienst and Morton, Sarah and Platt, Alyssa and Egger, Joseph and Emmett, Susan D and Palmeri, Mark L}
+  author={Jin, Felix Q and Huang, Ouwen and Robler, Samantha Kleindienst and Morton, Sarah and Platt, Alyssa and Egger, Joseph R and Emmett, Susan D and Palmeri, Mark L},
+  journal={Ear and Hearing},
+  volume={44},
+  number={5},
+  pages={1262},
+  year={2023},
+  publisher={Wolters Kluwer Health}
 }
 ```
 
